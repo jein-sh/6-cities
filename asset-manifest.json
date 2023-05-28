@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/6-cities/static/css/main.d3f5f5ae.css",
-    "main.js": "/6-cities/static/js/main.23bce83a.js",
+    "main.js": "/6-cities/static/js/main.cb9ecb03.js",
     "static/media/map@2x.jpg": "/6-cities/static/media/map@2x.f742d39af4691374f728.jpg",
     "static/media/map-big@2x.jpg": "/6-cities/static/media/map-big@2x.5b7f09bc2fdd5c9fd994.jpg",
     "static/media/amsterdam@2x.jpg": "/6-cities/static/media/amsterdam@2x.e1499da49f8b2f00ab5d.jpg",
@@ -34,10 +34,10 @@
     "static/media/ico-place.svg": "/6-cities/static/media/ico-place.1503475012d8c609b748.svg",
     "static/media/triangle.svg": "/6-cities/static/media/triangle.8cd83f400ed9a960a8b2.svg",
     "main.d3f5f5ae.css.map": "/6-cities/static/css/main.d3f5f5ae.css.map",
-    "main.23bce83a.js.map": "/6-cities/static/js/main.23bce83a.js.map"
+    "main.cb9ecb03.js.map": "/6-cities/static/js/main.cb9ecb03.js.map"
   },
   "entrypoints": [
     "static/css/main.d3f5f5ae.css",
-    "static/js/main.23bce83a.js"
+    "static/js/main.cb9ecb03.js"
   ]
 }
