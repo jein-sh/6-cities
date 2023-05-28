@@ -1,6 +1,6 @@
 {
   "name": "six-cities",
-  "homepage": "http://jein-sh.gihub.io/six-cities",
+  "homepage": "http://jein-sh.gihub.io/6-cities",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -62,6 +62,7 @@
     ]
   },
   "devDependencies": {
-    "@faker-js/faker": "^8.0.1"
+    "@faker-js/faker": "^8.0.1",
+    "gh-pages": "^5.0.0"
   }
 }
